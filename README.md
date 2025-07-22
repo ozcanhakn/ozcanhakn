@@ -114,6 +114,8 @@ Bana [LinkedIn](https://www.linkedin.com/in/ozcanhakan/) veya [e-posta](mailto:o
 </div>
 
 
+## 🔥 GitHub Streaks
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ozcanhakn&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanhakn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
