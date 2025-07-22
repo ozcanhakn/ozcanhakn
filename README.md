@@ -58,7 +58,7 @@ Bana [LinkedIn](https://www.linkedin.com/in/ozcanhakan/) veya [e-posta](mailto:o
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
 <h4>📊 Veri Bilimi & Gözlemleme</h4>
@@ -79,9 +79,9 @@ Bana [LinkedIn](https://www.linkedin.com/in/ozcanhakan/) veya [e-posta](mailto:o
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>
 </div>
 
 <h4>🌱 Backend Geliştirme</h4>
