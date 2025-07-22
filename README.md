@@ -101,6 +101,10 @@ Bana [LinkedIn](https://www.linkedin.com/in/ozcanhakan/) veya [e-posta](mailto:o
 </div>
 
 <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x4bG1obXYzMWd5MXVsbmk4aG12MGt3cHNqdXYzemQ5NmY2NjRndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3jpFpZ9DwGK7V34P4x/giphy.gif" width="600" height="300"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ozcanhakn&style=flat-square&color=blue" alt=""/>
 </div>
 
