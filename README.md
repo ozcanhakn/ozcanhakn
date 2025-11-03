@@ -14,42 +14,34 @@
   <br/><br/>
 
   <h1>👋 Merhaba, ben <b>Hakan Özcan</b></h1>
-  <h3>DevOps Engineer • AI Practitioner • Data Science Enthusiast</h3>
-  <p><i>Teknolojiyi anlamlı çözümlere dönüştürmek için öğrenmeye ve üretmeye devam ediyorum.</i></p>
+  <h3>AI Engineer • Full-Stack Developer • Product Builder</h3>
+  <p><i>Yapay zekâ destekli ürünler ve akıllı sistemler geliştiriyorum.</i></p>
 </div>
 
 ---
 
 ## 🚀 Hakkımda
 
-Karmaşık sistemleri sadeleştirme, süreçleri otomatikleştirme ve veriyi içgörüye dönüştürme konusunda deneyimliyim.  
-Modern **DevOps**, **Yapay Zeka** ve **Veri Bilimi** teknolojileriyle çalışarak, yazılım yaşam döngüsünü uçtan uca optimize eden çözümler geliştiriyorum.
+AI teknolojilerini ve modern web mimarilerini birleştirerek **ölçeklenebilir, güvenli ve kullanıcı odaklı uygulamalar** geliştiriyorum.  
+Next.js, Convex, Supabase ve TypeScript ekosisteminde üretim seviyesinde SaaS projeleri inşa ediyor,  
+aynı zamanda **AI destekli veri işleme ve etkileşimli arayüzler** üzerine odaklanıyorum.
 
 ---
 
 ## 🧠 Uzmanlık Alanları
 
-### ⚙️ **DevOps & Cloud Infrastructure**
-- Container orchestration (Docker, Kubernetes)
-- CI/CD süreçleri (GitHub Actions, Jenkins)
-- Infrastructure as Code (Terraform, Ansible)
-- Cloud-native mimariler (AWS, Azure)
-- Monitoring ve Observability (Prometheus, Grafana, ELK)
+### 🤖 **Yapay Zekâ & AI Uygulamaları**
+- OpenAI, LangChain, Hugging Face API’leriyle üretken yapay zekâ entegrasyonları  
+- NLP, metin analizi, embedding ve veri temelli içerik üretimi  
+- AI destekli SaaS & dashboard geliştirme  
+- MLOps, veri pipeline tasarımı ve model servisleştirme  
 
-### 🤖 **Yapay Zeka & Makine Öğrenimi**
-- Model geliştirme ve optimizasyon (TensorFlow, PyTorch)
-- NLP ve metin analizi (Transformers, OpenAI API)
-- MLOps: Model deployment, versioning, monitoring
-
-### 📊 **Veri Bilimi & Analitik**
-- Veri pipeline’ları (ETL/ELT, real-time streaming)
-- Predictive analytics ve A/B testing
-- BI & dashboard geliştirme (Pandas, Plotly, Grafana)
-
-### 💻 **Software Engineering**
-- Backend: Node.js, Java Spring Boot, Go
-- API Design: RESTful & GraphQL mimarileri
-- Database: PostgreSQL, MongoDB, Redis
+### 💻 **Full-Stack & Cloud Development**
+- **Frontend:** React, Next.js, TailwindCSS, TypeScript  
+- **Backend:** Convex, Supabase, Node.js  
+- **Auth & Security:** Clerk, JWT, OAuth, güvenli veri akışı  
+- **Monitoring & Analytics:** Sentry, Grafana, Prometheus  
+- **Deployment:** Vercel, Docker, Edge Functions  
 
 ---
 
@@ -59,10 +51,11 @@ Modern **DevOps**, **Yapay Zeka** ve **Veri Bilimi** teknolojileriyle çalışar
 
 | Category | Technologies |
 |-----------|---------------|
-| **Infrastructure** | Docker · Kubernetes · Terraform · Ansible · AWS |
-| **AI & ML** | Python · TensorFlow · PyTorch · Scikit-learn · HuggingFace · OpenAI |
-| **Data & Analytics** | Pandas · NumPy · PostgreSQL · ELK Stack · Grafana |
-| **Development** | Go · Java · Spring Boot · Node.js · Git |
+| **Frontend** | React · Next.js · TypeScript · TailwindCSS |
+| **Backend** | Convex · Supabase · Node.js · REST & GraphQL APIs |
+| **AI & ML** | OpenAI API · LangChain · Hugging Face · Python |
+| **Auth & Analytics** | Clerk · Sentry · Grafana · Prometheus |
+| **Dev Tools** | Git · Docker · Vercel · pnpm · TurboRepo |
 
 </div>
 
@@ -82,18 +75,19 @@ Modern **DevOps**, **Yapay Zeka** ve **Veri Bilimi** teknolojileriyle çalışar
 
 ## 🌟 Yaklaşımım
 
-> **“Basitlik, otomasyon ve sürekli gelişim.”**
+> **“AI + clean architecture + seamless UX = sustainable innovation.”**
 
-- 🎯 **Çözüm Odaklı:** Karmaşık problemleri sadeleştiririm.  
-- ⚡ **Verimlilik Odaklı:** Otomasyonla süreçleri hızlandırırım.  
-- 🧠 **Veri Odaklı:** Ölçümleyerek karar alırım.  
-- 🤝 **İşbirlikçi:** Disiplinler arası ekiplerde üretken çalışırım.
+- 🧩 **Product Thinking:** Kodun ötesinde değer yaratan ürünler geliştiririm.  
+- ⚙️ **System Design:** Basit ama esnek mimariler kurarım.  
+- 🧠 **AI-Driven:** Veriye dayalı ve akıllı sistemleri merkezde tutarım.  
+- 🎨 **Modern UI/UX:** Kullanıcı deneyimi ve performans dengesine önem veririm.  
 
 ---
 
 ## 📬 İletişim
 
-Yeni teknolojiler, AI projeleri veya DevOps dönüşüm süreçleri hakkında konuşmak istersen bana ulaşabilirsin:
+Yeni nesil SaaS ürünleri, yapay zekâ entegrasyonları veya full-stack çözümler üzerine çalışıyorsan,  
+bağlantı kurmaktan memnuniyet duyarım 👇
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ozcanhakan/">
@@ -109,5 +103,5 @@ Yeni teknolojiler, AI projeleri veya DevOps dönüşüm süreçleri hakkında ko
 <div align="center">
   <img src="https://media.giphy.com/media/3jpFpZ9DwGK7V34P4x/giphy.gif" width="550" alt="footer gif"/>
   <br/>
-  <sub>“Code is structure, automation is discipline, and AI is imagination.”</sub>
+  <sub>“Building intelligent systems — one clean commit at a time.”</sub>
 </div>
