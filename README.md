@@ -3,9 +3,7 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/ozcanhakan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hakan%20%C3%96zcan-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
+ 
   <a href="mailto:ozcanhakn@gmail.com">
     <img src="https://img.shields.io/badge/Email-ozcanhakn%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
